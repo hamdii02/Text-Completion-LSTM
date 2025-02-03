@@ -1,4 +1,4 @@
-Kraken Text Generation App
+Text Generation App
 
 This Flask application allows users to generate text completions using two different models: an N-gram model and an LSTM (Long Short-Term Memory) model. Users can enter raw text and select the model they want to use for generating predictions.
 
