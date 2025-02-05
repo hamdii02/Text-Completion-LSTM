@@ -1,4 +1,4 @@
-name: kraken
+name: Text_comp
 channels:
   - pyg
   - nvidia
